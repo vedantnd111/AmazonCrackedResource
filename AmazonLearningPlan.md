@@ -29,13 +29,13 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | ❌ |  | has to learn graph
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | ❌ | has to learn graph |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | ✅ | Medium |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | Medium |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | ✅ | Meduim |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  ✅  | Medium  |
-| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  | ❌ |  | has to learn dp
-| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  | ❌ | has to learn graph
+| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  | ❌ | has to learn dp |
+| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | ❌ | has to learn graph |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  ✅  | Easy |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | ✅ | Easy |
